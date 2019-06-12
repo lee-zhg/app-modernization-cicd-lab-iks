@@ -15,14 +15,12 @@ If you haven't already:
 
 1. Complete *Part 1 -  Working with Helm*  by following the instructions [here](https://github.com/IBMAppModernization/app-modernization-helm-lab-iks)
 
-2. If following this lab as part of an IBM instructor led workshop, please follow these instructions to setup your workshop environment: https://gist.github.com/djccarew/83da0dca62dbc4951efddbe1f49105ca
-
-3. Initialize Helm client
+2. Initialize Helm client
 ```
    helm init --client-only
 ```
 
-4. Go to the folder where you cloned the Plants By WebSphere  app in the previous lab
+3. Go to the folder where you cloned the Plants By WebSphere  app in the previous lab
 ```
    cd app-modernization-plants-by-websphere-jee6
 ```   
